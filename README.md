@@ -1,6 +1,6 @@
 ![MasterHead](https://c4.wallpaperflare.com/wallpaper/748/935/636/typography-web-development-minimalism-programming-wallpaper-preview.jpg)
 <h1 align="center">Hi,I'm Fatih Mehmet </h1>
-<h3 align="center">I am a 3rd year student in computer engineering at Iskenderun Technical University.ontend developer from India</h3>
+<h3 align="center">I am a 3rd year student in computer engineering at Iskenderun Technical University</h3>
 
 - I’m currently learning **Android Studio with Kotlin**
 
