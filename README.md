@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm Fatih Mehmet </h1>
-<h3 align="center">I am a 3rd year student in computer engineering at Iskenderun Technical University</h3>
+<h3 align="center">I am a 4th year student in computer engineering at Iskenderun Technical University</h3>
 
 - I’m currently learning **Android Studio with Kotlin**
 
